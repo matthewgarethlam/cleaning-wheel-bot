@@ -1,0 +1,82 @@
+Date: 7/7/2023
+Time: 13:14
+Phone Number: +37256973888
+Message: this is a test message
+--------------------
+Date: 7/7/2023
+Time: 13:16
+Phone Number: +37256973888
+Message: this is a test message
+--------------------
+Date: 7/7/2023
+Time: 13:26
+Phone Number: +37256973888
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel1.jpg
+Caption: image caption
+--------------------
+Date: 7/7/2023
+Time: 13:28
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel1.jpg
+Caption: image caption
+--------------------
+Date: 7/7/2023
+Time: 13:29
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel1.jpg
+Caption: no timestamp
+--------------------
+Date: 7/7/2023
+Time: 13:34
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel1.jpg
+Caption: no timestamp
+--------------------
+Date: 7/7/2023
+Time: 14:0
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel4.jpg
+Caption: Hello, here is cleaning wheel for this week! :) This is an automated message from Matthew's Cleaning Bot
+--------------------
+Date: 7/7/2023
+Time: 14:1
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel4.jpg
+Caption: Hello, here is cleaning wheel for this week! :) _This is an automated message from Matthew's Cleaning Bot_
+--------------------
+Date: 7/7/2023
+Time: 14:3
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel4.jpg
+Caption: ✨Hello, here is the cleaning wheel for this week! ✨ _This is an automated message from Matthew's Cleaning Bot_
+--------------------
+Date: 7/7/2023
+Time: 14:7
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel4.jpg
+Caption: U+1F60D Hello, here is the cleaning wheel for this week! U+1F60D _This is an automated message from Matthew's Cleaning Bot_
+--------------------
+Date: 7/7/2023
+Time: 14:7
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel4.jpg
+Caption: Hello, here is the cleaning wheel for this week! Happy Cleaning! :) _This is an automated message from Matthew's Cleaning Bot_
+--------------------
+Date: 7/7/2023
+Time: 14:8
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel4.jpg
+Caption: *Hello, here is the cleaning wheel for this week! Happy Cleaning! :) * _This is an automated message from Matthew's Cleaning Bot_
+--------------------
+Date: 7/7/2023
+Time: 14:9
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel4.jpg
+Caption: *Hello, here is the cleaning wheel for this week! Happy Cleaning! :)* _This is an automated message from Matthew's Cleaning Bot_
+--------------------
+Date: 7/7/2023
+Time: 14:10
+Group ID: EgntfnQHwRYASbeQAzhpwL
+Image: /Users/matthewlam/Desktop/178parkhillcleaning/wheel4.jpg
+Caption: *Hello, here is the cleaning wheel for this week! Happy Cleaning! :)* _This is an automated message from Matthew's Cleaning Bot_
+--------------------
